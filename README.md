@@ -16,7 +16,7 @@ This is an app that allows a user to take a picture from the camera and paint ov
 
 ### App Walkthough GIF
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/Hkt07Qo"  ><a href="//imgur.com/a/Hkt07Qo">HW5</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=250><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/Hkt07Qo"  ><a href="//imgur.com/a/Hkt07Qo">HW5</a></blockquote>
 
 ### Notes
 When building this app, there didn't come much in the way of challenges for building the finished product. However, there was one major challenge and that came with allowing the 
